@@ -1,5 +1,6 @@
 # Raspi_CPU_Temperature_Monitor
-![Guess_screenshot1](https://user-images.githubusercontent.com/2387580/109665204-504abd00-7b44-11eb-9a68-b1cf70342b2f.png)
+
+![Monitor screenshot](https://github.com/pgbowers/Raspi_CPU_Temperature_Monitor/blob/main/CPU_Temp_Screen1.png)
 
 A GUI temperature monitor developed with PySimpleGUI.
  - This app will monitor the CPU temperature on your Pi 
