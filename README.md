@@ -2,7 +2,7 @@
 
 ![Monitor screenshot](https://github.com/pgbowers/Raspi_CPU_Temperature_Monitor/blob/main/CPU_Temp_Screen1.png)
 
-A GUI temperature monitor developed with PySimpleGUI.
+A GUI temperature monitor for the Raspberry Pi, developed with PySimpleGUI.
  - This app will monitor the CPU temperature on your Pi 
    and will alert if the temperature exceeds 70 degrees C.
  - Temperature is selectable - Fahrenheit/Celsius
